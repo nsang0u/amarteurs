@@ -25,3 +25,5 @@ However, clicking this link again brought me back to the Assignments page. I fel
 
 
 Clearly, these links were not working as intended. They were nicely labelled with names of existing pages on the website, so a user would expect them to lead to the pages with those names. If this had been the case (as was intended), there would have been nothing notable about my search for my homework assignments, and I probably would not have consciously noticed anything about the design of these pages. Instead, because the functionality was different than what the signifiers (the names of the links) suggested, I was confused and annoyed.
+
+All images are screenshots from https://sites.google.com/williams.edu/csci376-2018/.
