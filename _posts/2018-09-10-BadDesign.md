@@ -2,7 +2,7 @@
 layout: post
 title: Bad Design
 subtitle: Broken links on the course website
-tags: [good]
+tags: [bad]
 ---
 
 I wanted to see what homework I needed to do for my HCI class, so I went to the course website. I knew that all the information I needed would be included on the Schedule page, so I naturally clicked on "Schedule" at the bottom of the home page:
