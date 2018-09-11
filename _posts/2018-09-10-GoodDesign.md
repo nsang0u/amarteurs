@@ -14,3 +14,5 @@ Each link at the top or side of the website takes you to a specific page. Clicki
 ![Imgur](https://i.imgur.com/GL4NbN6.png)
 
 Each page offers exactly the information suggested by the phrase which you click on. Additionally, all available pages are shown on the top or side and are always visible from any page of the website. I had not previously considered how nice it is to not have to press the "Back" button while browsing a website. Instead, you can keep moving from page to page. Many websites feature toolbars or uniform templates with this functionality, but the fact that the Geosciences website does not contain any extra pages hidden within pages makes browsing this website particularly comfortable.
+
+All screenshots from https://geosciences.williams.edu.
