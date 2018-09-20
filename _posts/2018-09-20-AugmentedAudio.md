@@ -21,7 +21,7 @@ Even when intently observing a work of art, people can become distracted by rand
 
 ## Improved Audio Experience
 
-To help museum visitors to focus on and connect with artwork, I propose a phone app that can play immersive sounds and musical scores in personal headphones as visitors make their way through different exhibits. This app should function automatically based on a visitor’s location in the museum, as required manual controls would take focus away from the art. If there happen to be multiple tracks for an exhibit, the user should have the ability to cycle between these options at the touch of a button. Immersive personal audio combined with minimal manual manipulation would improve visitors’ focus on and connection with the artwork, providing a deeper and more memorable museum experience.
+To help museum visitors to focus on and connect with artwork, I propose a phone app called 'Augmented Audio' that can play immersive sounds and musical scores in personal headphones as visitors make their way through different exhibits. This app should function automatically based on a visitor’s location in the museum, as required manual controls would take focus away from the art. If there happen to be multiple tracks for an exhibit (multiple songs for instance, or simulated ambient noise versus music), the user should have the ability to cycle between these options at the touch of a button. Immersive personal audio combined with minimal manual manipulation would improve visitors’ focus on and connection with the artwork, providing a deeper and more memorable museum experience.
 
 ![Imgur](https://i.imgur.com/8hBsAHA.jpg)
 
