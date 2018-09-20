@@ -2,7 +2,7 @@
 layout: post
 title: Augmented Audio
 subtitle: Immersive Spatial Sound
-tags: [good]
+tags: [proposal]
 ---
 
 ## The Problem
