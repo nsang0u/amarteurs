@@ -37,7 +37,7 @@ Thus we can understand the need for a casual, real-time social aspect of art eng
 Questions
 Observations
 Stories
-</p></b></h2>
+</b></h2></p>
 
 Potential features would include:
 *a community forum to view and post short-form comments about works of art
