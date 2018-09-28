@@ -45,5 +45,5 @@ Potential features would include:
 
 The goal is to connect all the art amateurs and help them feel less alone in an environment they feel out of place in, and one of the best ways to do this is to create a community that they can carry in their pocket and access when they most need it. It's time to bring those people in the museum shadows to the forefront. It's time to make art museums for the art amateurs.
 
-[Cover Photo](http://www.skypeenglishclasses.com/starting-english-conversation/) 
+Source: [Cover Photo](http://www.skypeenglishclasses.com/starting-english-conversation/) 
 
