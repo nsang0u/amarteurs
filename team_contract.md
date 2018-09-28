@@ -5,9 +5,9 @@ title: Our Team Contract
 
 **Guiding Principles**
 
-  *Mutual respect: we should feel our work and inputs are heard and acknowledged.
-  *Positivity and satisfaction: we strive to feel happy about the work we produce.
-  *Balance: We respect each other’s limitations in terms of physical and emotional health.
+  -Mutual respect: we should feel our work and inputs are heard and acknowledged.
+  -Positivity and satisfaction: we strive to feel happy about the work we produce.
+  -Balance: We respect each other’s limitations in terms of physical and emotional health.
 
 **Purpose**
 
