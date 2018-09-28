@@ -5,11 +5,11 @@ title: Our Team Contract
 
 **Guiding Principles**
 
-  -Mutual respect: we should feel our work and inputs are heard and acknowledged.
+  -*Mutual respect:* we should feel our work and inputs are heard and acknowledged.
   
-  -Positivity and satisfaction: we strive to feel happy about the work we produce.
+  -*Positivity and satisfaction:* we strive to feel happy about the work we produce.
   
-  -Balance: We respect each other’s limitations in terms of physical and emotional health.
+  -*Balance:* We respect each other’s limitations in terms of physical and emotional health.
 
   
 **Purpose**
@@ -56,13 +56,15 @@ title: Our Team Contract
   
 **Logistics**
 
-*Meeting times:*
-Wednesday 4:00 PM Lee’s
-Saturday 3:00 PM Lee’s
-More meetings as needed
+-*Meeting times:*
+   Wednesday 4:00 PM Lee’s
 
-*Conflict management*
-We communicate potential conflicts with our teammates at least 5 hours prior to the arrangement
+   Saturday 3:00 PM Lee’s
+
+   More meetings as needed
+
+-*Conflict management*
+   We communicate potential conflicts with our teammates at least 5 hours prior to the arrangement
 
   
 **Meeting procedures**
