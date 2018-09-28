@@ -59,12 +59,17 @@ More meetings as needed
 *Conflict management*
 We communicate potential conflicts with our teammates at least 5 hours prior to the arrangement
 
-*Meeting procedures*
-Pre-meeting: Create meeting-specific To-Do doc and each add any specific points we want to discuss
-Begin: Discuss goals for meeting
-Discuss any outstanding general or specific concerns
-Work on meeting goals
-End: Discuss deliverables and delegate tasks to team members
+**Meeting procedures**
+
+*Pre-meeting:* Create meeting-specific To-Do doc and each add any specific points we want to discuss
+
+*Begin:* Discuss goals for meeting
+
+*Check-in:* Discuss any outstanding general or specific concerns
+
+*Work time:* Work on meeting goals
+
+*End:* Discuss deliverables and delegate tasks to team members
 
 **Follow-Up**
 
