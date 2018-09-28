@@ -5,10 +5,9 @@ subtitle: Building Community for the Art Amateur
 bigimg: /img/conversation.jpg
 ---
 # Meet the Art Amateurs...
-Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. 
+Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. Sometimes trying to understand an art piece feels like looking at a blank canvas.
 
-
-![Canvas](/img/blank_art.jpg)
+![Canvas]()
 [(1)](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
 
 You see this all the time in art museums: certain people spend hours walking around, examining each painting; others wander the rooms more aimlessly, eventually growing tired or bored and finding themselves searching for the nearest bench or cafe. 
