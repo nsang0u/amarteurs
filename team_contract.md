@@ -11,9 +11,11 @@ title: Our Team Contract
   
   -Balance: We respect each other’s limitations in terms of physical and emotional health.
 
+
 **Purpose**
 
   *Our ultimate goal is to develop a product design that will provide a sense of community to amateur art lovers at WCMA and around the world.*
+
 
 **Communication, Decision-Making and Critique**
 
@@ -24,6 +26,7 @@ title: Our Team Contract
   -We view conflicts as lessons and opportunities to learn about each other and strengthen the team 
   
   -We do not criticize group members’ products behind their backs.
+
 
 **Collaboration and Division of Labor**
 
@@ -37,6 +40,7 @@ title: Our Team Contract
 
 -We will track our deliverables, due dates and progress in Trello, a team project task organizer. 
 
+
 **Accountability and Reward**
 
 -Good work is rewarded with positive feedback and group satisfaction
@@ -49,6 +53,7 @@ title: Our Team Contract
 
 -We don’t call each other out; we call each other in
 
+
 **Logistics**
 
 *Meeting times:*
@@ -58,6 +63,7 @@ More meetings as needed
 
 *Conflict management*
 We communicate potential conflicts with our teammates at least 5 hours prior to the arrangement
+
 
 **Meeting procedures**
 
@@ -70,6 +76,7 @@ We communicate potential conflicts with our teammates at least 5 hours prior to 
 *Work time:* Work on meeting goals
 
 *End:* Discuss deliverables and delegate tasks to team members
+
 
 **Follow-Up**
 
