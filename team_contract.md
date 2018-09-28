@@ -57,6 +57,7 @@ title: Our Team Contract
 **Logistics**
 
 -*Meeting times:*
+
    Wednesday 4:00 PM Lee’s
 
    Saturday 3:00 PM Lee’s
