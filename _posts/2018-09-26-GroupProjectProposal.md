@@ -33,11 +33,11 @@ Thus we can understand the need for a casual, real-time social aspect of art eng
 
 **Using WCMA as our foundation we would like to design an app that would create an immersive community experience:** This would open up a new world...
 
-<p align="center"> <b>
-### Questions
-### Observations
-### Stories
-</p></b>
+<p align="center"> <b> <h2>
+Questions
+Observations
+Stories
+</p></b></h2>
 
 Potential features would include:
 *a community forum to view and post short-form comments about works of art
