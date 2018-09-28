@@ -5,18 +5,18 @@ title: Our Team Contract
 
 **Guiding Principles**
 
-Mutual respect: we should feel our work and inputs are heard and acknowledged.
-Positivity and satisfaction: we strive to feel happy about the work we produce.
-Balance: We respect each other’s limitations in terms of physical and emotional health.
+*Mutual respect: we should feel our work and inputs are heard and acknowledged.
+*Positivity and satisfaction: we strive to feel happy about the work we produce.
+*Balance: We respect each other’s limitations in terms of physical and emotional health.
 
 **Purpose**
 
-Our ultimate goal is to develop a product design that will provide a sense of community to amateur art lovers at WCMA and around the world.
+*Our ultimate goal is to develop a product design that will provide a sense of community to amateur art lovers at WCMA and around the world.
 
 **Communication, Decision-Making and Critique**
 
-We speak openly about our feelings with the mutual understanding that we may disagree. 
-We consider all opinions holistically and strive to compromise, resolve and build on each idea. 
+*We speak openly about our feelings with the mutual understanding that we may disagree. 
+*We consider all opinions holistically and strive to compromise, resolve and build on each idea. 
 We view conflicts as lessons and opportunities to learn about each other and strengthen the team
 We do not criticize group members’ products behind their backs.
 
