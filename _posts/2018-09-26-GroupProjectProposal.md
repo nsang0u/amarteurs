@@ -1,7 +1,7 @@
 ---
 layout: post
-title: AmARTeurs
-subtitle: Building Community for the Art Amateur
+title: Group Project Proposal
+subtitle: AmARTeurs: Building Community for the Art Amateur
 bigimg: /img/conversation.jpg
 ---
 # Meet the Art Amateurs...
