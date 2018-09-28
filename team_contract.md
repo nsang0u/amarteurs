@@ -14,7 +14,7 @@ title: Our Team Contract
   
 **Purpose**
 
-  *Our ultimate goal is to develop a product design that will provide a sense of community to amateur art lovers at WCMA and around the world.*
+  *Our ultimate goal is to develop a product design that will provide a sense of community to amateur consumers of art at WCMA and around the world.*
 
   
 **Communication, Decision-Making and Critique**
