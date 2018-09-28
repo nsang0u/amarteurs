@@ -8,7 +8,7 @@ bigimg: /img/conversation.jpg
 Not everyone “understands” art. Some people have difficulty spending even a few minutes in an art museum, nevertheless spending multiple hours. 
 
 
-![Canvas](/img/blank_art.jpg)
+![Canvas](/img/conversation.jpg)
 [(1)](https://www.huffingtonpost.com/2014/10/22/how-to-act-at-an-art-muse_n_6023610.html)
 
 You see this all the time in art museums: certain people spend hours walking around, examining each painting; others wander the rooms more aimlessly, eventually growing tired or bored and finding themselves searching for the nearest bench or cafe. 
@@ -33,11 +33,10 @@ Thus we can understand the need for a casual, real-time social aspect of art eng
 
 **Using WCMA as our foundation we would like to design an app that would create an immersive community experience:** This would open up a new world...
 
-<p align="center"> <b> <h2>
-Questions
-Observations
-Stories
-</b></h2></p>
+### Questions
+### Observations
+### Stories
+
 
 Potential features would include:
 *a community forum to view and post short-form comments about works of art
