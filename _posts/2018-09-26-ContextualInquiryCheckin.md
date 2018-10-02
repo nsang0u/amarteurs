@@ -2,7 +2,7 @@
 layout: post
 title: Contextual Inquiry Check-In
 subtitle: Reflecting on a first CI...
-bigimg: /img/conversation.jpg
+bigimg: /img/ci.png
 ---
 # Contextual Inquiry #1
 
