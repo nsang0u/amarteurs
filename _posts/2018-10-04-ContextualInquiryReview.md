@@ -38,7 +38,7 @@ Overall, very few of the comments were serious. Some involved references such as
 
 Overall, this graffiti wall study revealed that given an anonymous forum of sorts, people seem to write the first things that come to their mind, without attempting to write something especially deep. One of the issues with a graffiti wall is that we have no information about the types of participants, but it is still helpful to know that not only will people interact with a random piece of artwork, but that they have thoughts that are not necessarily as profound or intelligent, that they are willing to share anonymously.
 
-**Affinity Diagram and Themes
+## Affinity Diagram and Themes
 
 We began our affinity diagram process by writing all of the quotes that stuck out to us from the two contextual inquiries and the graffiti wall on post it note. We then began with a silent process of putting the post-its up. After a few minutes we began speaking, especially as we started to move post-its around and reconsider groupings. Once we had reasonably settled groups of post-its, we went group-by-group and discussed what the potential theme was. This often led to some debate about whether all of the post-its in the group seemed to relate to what seemed to be the central theme. We also tried to avoid words we knew such as “self-conscious” and consider what the participants were saying on a deeper level. In the process of grouping some smaller groups were split up and absorbed into larger groups.
 
@@ -55,7 +55,7 @@ We began our affinity diagram process by writing all of the quotes that stuck ou
  <img src="https://image.ibb.co/iwqh1z/diagram.jpg">
 </p>
 
-**Task Analysis Questions
+## Task Analysis Questions
 
 **Who is going to use the design?**
 The design will be used by people who feel slightly uncomfortable, out of place or otherwise unwelcome in art museums. In regard to age range, it will primary be directed toward college students and adults (between the ages of 18-35)
