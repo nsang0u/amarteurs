@@ -62,35 +62,46 @@ We began our affinity diagram process by writing all of the quotes that stuck ou
 ## Task Analysis Questions
 
 **Who is going to use the design?**
+
 The design will be used by people who feel slightly uncomfortable, out of place or otherwise unwelcome in art museums. In regard to age range, it will primary be directed toward college students and adults (between the ages of 18-35)
 
 **What tasks do they now perform?**
+
 They don’t willingly go to art museums very often, but when they do, they often walk around aimlessly, think about the art (even if those thoughts are not necessarily fully developed, deep, or well-thought-out), and generally express feeling out of place in art museums. When they do make comments about art, those comments are usually stories, outside references or silly observations. They also are willing to express their thoughts about art anonymously by writing on a posterboard hung below a piece of artwork.
 
 **What tasks are desired?**
+
 We want these users to express their thoughts and interact with other museum-goers who may not necessarily be with them during their time at the museum, but who they can still connect with. We also want them to feel comfortable starting and contributing to conversations about art.
 
 **How are the tasks learned?**
+
 These tasks are learned by creating an environment that helps people feel more comfortable expressing their thoughts about art, which may not be profound but are still very valid. 
 
 **Where are the tasks performed?**
+
 In spaces where art can be found. This can include art museums, or just other public spaces where art is displayed (for example different buildings on campus).
 
 **What is the relationship between the person and data?**
+
 Some of these people do care about facts and historical information about the paintings. If an artwork catches their eye, they are likely to read the plaque next to it. Although this sometimes increases engagement and interest with the art, it does not seem to increase level of comfort in art museum.
 
 **What other tools does the person have?**
+
 The other tools these users have are their personal experiences, memories, and their personal preferences. Often these are the tools that most allow these people to connect with or relate to the art.
 
 **How do people communicate with each other?**
+
 When people are not in the same room as other people, they seem to be willing to communicate through anonymous forums (such as a public poster). Many of these people do not really want to communicate with other people in the museum about art, because they feel like they cannot contribute to the conversation. One scenario where they are more willing to communicate with others in when they are at a museum with their friends or with other people who they trust.
 
 **How often are the tasks performed?**
+
 The tasks would be performed any time the person sees a piece of art and wants to engage with it.
 
 **What are the time constraints on the tasks?**
+
 There are no time constraints; however, if our design involves some kind of space to leave comments, there may be a space constraint.
 
 **What happens when things go wrong?**
+
 Things go wrong when people feel like they are being judged or when people provide comments that are mean or unproductive. In this case, there would ideally be some way of screening or censoring comments so that highly negative comments are removed.
 
