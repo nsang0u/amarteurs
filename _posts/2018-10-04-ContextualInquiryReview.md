@@ -5,13 +5,13 @@ subtitle: Reflecting on a week of contextual inquiry and graffiti wall analysis
 ---
 
 <p align="center">
- <img src="\img\setup.jpg">
+ ![Nintendo wii Remote](/img/setup.JPG)
 </p>
 
 <p align="center">
- <img src="\img\poster.jpg">
+ ![Nintendo wii Remote](/img/poster.JPG)
 </p>
 
 <p align="center">
- <img src="\img\diagram.jpg">
+ ![Nintendo wii Remote](/img/diagram.JPG)
 </p>
