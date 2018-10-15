@@ -3,23 +3,21 @@ layout: post
 title: Scenario Sketches
 ---
 
-test
 
-<p align="center">
- <img src="https://i.imgur.com/z8qQTmy.jpg">
-</p>
-test
-
-
+Anjali's Sketch:
 <p align="center">
  <img src="https://i.imgur.com/wdVsrSr.jpg">
 </p>
-test
 
 
+Noah's sketch:
+<p align="center">
+ <img src="https://i.imgur.com/z8qQTmy.jpg">
+</p>
 
+
+Will's Sketch
 <p align="center">
  <img src="https://i.imgur.com/Rlbgrxo.jpg">
 </p>
-test
 
