@@ -5,14 +5,22 @@ title: Scenario Sketches
 
 test
 
-![/img/anjali_sketch.png](/img/anjali_sketch.png)
-
+<p align="center">
+ <img src="https://i.imgur.com/z8qQTmy.jpg">
+</p>
 test
 
-![/img/noah_sketch.png](/img/noah_sketch.png)
 
+<p align="center">
+ <img src="https://i.imgur.com/wdVsrSr.jpg
+">
+</p>
 test
 
-![/img/will_sketch.png](/img/will_sketch.png)
 
+
+<p align="center">
+ <img src="https://i.imgur.com/Rlbgrxo.jpg">
+</p>
 test
+
