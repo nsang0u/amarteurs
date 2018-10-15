@@ -5,7 +5,7 @@ title: Scenario Sketches
 
 test
 
-![/img/anjali_sketch.png](\img\anjali_sketch.png)
+![/img/anjali_sketch.png](/img/anjali_sketch.png)
 
 test
 
