@@ -12,8 +12,7 @@ test
 
 
 <p align="center">
- <img src="https://i.imgur.com/wdVsrSr.jpg
-">
+ <img src="https://i.imgur.com/wdVsrSr.jpg">
 </p>
 test
 
