@@ -36,7 +36,7 @@ Martina is a 22-year-old banker who works in New York City. She lives a 15-minut
 Marta is an English major at Williams and a comedy enthusiast who loves making puns. Often, those puns are sadly not appreciated by her peers; however through her involvement with college comedy and improv groups, she has found a community of peers that understand her humor. Outside of this group, however, Marta is less outgoing, loud or willing to share her opinions. One summer day, while her parents are visiting her at Williams, they drag Marta to WCMA (her least favorite place). Begrudgingly, she tags along. While wandering around the museum, she stumbles upon a painting of six sheep on a purple canvas. Her mind immediately goes to the pun “Sheeph” (like eph but but sheep). Sadly, there is no one around to share the pun with. Marta wishes, in that moment, that she could find and connect with other people who love and understand art-based puns.
 
 
-## Receive validation about your own art opinions, no matter how ridiculous they may seem _(DIFFICULT_
+## Receive validation about your own art opinions, no matter how ridiculous they may seem _(DIFFICULT)_
 
 
 Cartney has never been to an art museum by herself. When she does go to art museums, she goes with her friends who major in art history. Her friends talk a lot about the art they see, making many intelligent-sounding comments. Cartney feels insecure about her own thoughts on art; she hasn’t forgotten the time her friends laughed at her when she said she “liked the cows” in a painting. She thinks she would express her random thoughts on pieces of art if people were more accepting of and even agreed with her ideas.
