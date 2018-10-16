@@ -3,7 +3,9 @@ layout: post
 title: Task Review
 ---
 
-# Leave a comment or thought about art! _(EASY, EXISTING)_
+# Existing Tasks
+
+## Leave a comment or thought about art! _(EASY, EXISTING)_
 
 
 Bart is an 8th grader at Mt. Greylock High School whose class has gone on a field trip to visit the Williams College Museum of Art. Bart doesn’t mind art, though he isn’t exactly a huge fan of it and definitely isn’t excited about listening to his art teacher Ms. Rebeccarte wax poetic about the different exhibits. Unfortunately, Bart’s best and only friend Artem is out sick today. Because of this, not only is he lonely, but he’s also unable to make comments about the art to his friend as per usual, and thus is left without a way to have his funny comments appreciated without participating in Ms. Rebeccarte’s discussion. 
