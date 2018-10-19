@@ -67,8 +67,19 @@ A mobile app that allows people to leave their own comments and to respond to ot
 # Design 2: Interactive projections + kiosk/ipad
 
 ## Main Idea
+This design is a projection of broad ideas, words, and themes from user comments, in the form of a word cloud. Each exhibition room has a kiosk in the center that has an ipad on it. The ipad allows you to leave comments about art that are then incorporated into the word cloud.
 
 ## Tasks
+The user sees an art piece and wants to share a comment about it, but they are alone. Each room of art has a kiosk at the center with an ipad. The ipad has a menu of options of paintings in that room. The user can select a painting, after which a comments box will appear. The user can type in the comment and press save. It then gets added to the projection.
+
+
+Each room has a button on the wall near the artwork. If you press the button, it starts a projection of words, themes and general snippets from anonymous comments left by other museum-goers. Curious users can press that button to learn what other people thought of the artwork.
+
+
+The projection and ipad combination also supports the sharing of stories. There is an option to either leave a story in the comments box and mark it as “story” or “memory” or to leave an audio recording. The recordings play intermittently when the projection is on. The written stories show up on the wall in random bursts, in between displays of the word cloud.
+
+
+The projection allows users to see a variety of opinions from other museum-goers. This hopefully allows them to find opinions or ideas similar to theirs and feel a sense of community with other museum-goers.
 
 # Design 3: Interactive Smartboard Installations with kiosk/ipad
 
