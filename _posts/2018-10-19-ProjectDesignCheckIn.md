@@ -63,8 +63,39 @@ A mobile app that allows people to leave their own comments and to respond to ot
 ### Task 4: Receive validation about your own art opinions, no matter how ridiculous they may seem
 * The user left a comment on a few pieces of art several days ago, and they wonder if anyone else agreed with their thoughts. The user uses the “me” functionality on the main page of the app to look at their own comments. They can see the number of points for each of their comments and how many replies people have posted for each comment. The user can continue commenting in these chains no matter their location.
 
-
 # Design 2: Interactive projections + kiosk/ipad
+
+## Main Idea
+This design uses interactive, touch sensitive smartboards. Each exhibit hall has one large smartboard placed on a wall in a central location. The smartboard is paired with a motion sensor that allows it to recognize when a museumgoer is approaching. The board displays a wide-angle 360-degree video-like perspective of the exhibit hall in which it is placed, mimicking the view a museumgoer has as they walk around the room looking at the artworks. At idle, when no one has approached, the smartboard displays this view, panning slowly from artwork to artwork, annotating the image with a feed of comments relating to the artwork central in the shot displayed. When an individual approaches, the panning slows, and the user has multiple options with how to interact with the smartboard, outlined in the tasks below.
+
+## Tasks
+
+### Task 1: Leave a comment or thought about art!
+
+* A user has a thought or comment about art that they feel should be seen by other museumgoers. The user can see the large smartboard, which is positioned in a prominent place, displaying a panning image of the space with comments per each artwork. As the visitor approaches, the pan slows. The visitor can then swipe on the smartboard, moving the image along until the desired artwork is in view. The photograph is augmented with a comment feed for the particular artwork, and the user taps to add a new content. They either handwrite or type their comment on the smartboard, leaving it for all to see. 
+
+
+![Imgur](https://i.imgur.com/sOYfIkV.jpg)
+
+### Task 2: See/Respond to someone else’s thoughts or comments 
+
+* At idle, the smartboard displays a panning point-of-view image of the exhibit in which it’s placed. Users can see the comment feeds of the artworks scrolling by as they walk the museum. The comment feed shows the comments left on the respective artwork, as well as the replies to each comment. The user can upvote or downvote comments, and can tap on the reply button to start a new reply. To remain on a particular artwork’s comment feed, the user can tap on the comment window shown at idle to show the feed in full screen. 
+
+![Imgur](https://i.imgur.com/GOYHPbb.jpg)
+
+### Task 3: Share personal stories or experiences linked to artwork
+
+* The user is able to share personal stories through employment of the comment-leaving function of this design. In the process of finding the artwork that the user wants to share a story about, the display replicates the point of view of the visitor, allowing for facile recollection of the emotions felt when looking at the artwork initially. The user employs the comment-leaving function of this design to share their story. Further functionality is provided to aid with story-telling: the user can record an audio recording with a built-in microphone that can be subsequently played in the comment feed.  
+
+![Imgur](https://i.imgur.com/9fbiJSq.jpg)
+
+ ### Task 4: View comments from and feel community with people who share your ideas
+ 
+	At idle, the smartboard shows the point-of-view perspective of the museum exhibit, augmented with comment feeds for the artworks as they pan by. Museum visitors are able to view these comments and swipe to view the comments corresponding to other artworks. To view specific comments and threads related to a particular interest, the user can search for keywords in the design’s included search function. Search can be done for a particular artwork, or across an entire exhibit. The user thus gains access to the comments of a community of like-minded museumgoers. 
+
+
+![Imgur](https://i.imgur.com/zDSFhZD.jpg)
+
 
 ## Main Idea
 This design is a projection of broad ideas, words, and themes from user comments, in the form of a word cloud. Each exhibition room has a kiosk in the center that has an ipad on it. The ipad allows you to leave comments about art that are then incorporated into the word cloud.
