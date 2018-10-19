@@ -120,7 +120,7 @@ The projection and ipad combination also supports the sharing of stories. There 
 
 ![Imgur](https://i.imgur.com/cKCSqWK.jpg)
 
- ### Task 4: View comments from and feel community with people who share your ideas
+### Task 4: View comments from and feel community with people who share your ideas
  
 The projection allows users to see a variety of opinions from other museum-goers. This hopefully allows them to find opinions or ideas similar to theirs and feel a sense of community with other museum-goers.
 
