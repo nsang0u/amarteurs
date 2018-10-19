@@ -91,7 +91,7 @@ This design uses interactive, touch sensitive smartboards. Each exhibit hall has
 
  ### Task 4: View comments from and feel community with people who share your ideas
  
-	At idle, the smartboard shows the point-of-view perspective of the museum exhibit, augmented with comment feeds for the artworks as they pan by. Museum visitors are able to view these comments and swipe to view the comments corresponding to other artworks. To view specific comments and threads related to a particular interest, the user can search for keywords in the design’s included search function. Search can be done for a particular artwork, or across an entire exhibit. The user thus gains access to the comments of a community of like-minded museumgoers. 
+* At idle, the smartboard shows the point-of-view perspective of the museum exhibit, augmented with comment feeds for the artworks as they pan by. Museum visitors are able to view these comments and swipe to view the comments corresponding to other artworks. To view specific comments and threads related to a particular interest, the user can search for keywords in the design’s included search function. Search can be done for a particular artwork, or across an entire exhibit. The user thus gains access to the comments of a community of like-minded museumgoers. 
 
 
 ![Imgur](https://i.imgur.com/zDSFhZD.jpg)
