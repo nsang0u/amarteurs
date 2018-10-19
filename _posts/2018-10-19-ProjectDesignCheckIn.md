@@ -106,23 +106,23 @@ This design is a projection of broad ideas, words, and themes from user comments
 
 The user sees an art piece and wants to share a comment about it, but they are alone. Each room of art has a kiosk at the center with an ipad. The ipad has a menu of options of paintings in that room. The user can select a painting, after which a comments box will appear. The user can type in the comment and press save. It then gets added to the projection.
 
-![Pic1](/img/pic1.jpg)
+![Imgur](https://i.imgur.com/yExOm53.jpg)
 
 ### Task 2: See/Respond to someone else’s thoughts or comments 
 
 Each room has a button on the wall near the artwork. If you press the button, it starts a projection of words, themes and general snippets from anonymous comments left by other museum-goers. Curious users can press that button to learn what other people thought of the artwork.
 
-![Pic2](/img/pic2.jpg)
+![Imgur](https://i.imgur.com/TV3bn6z.jpg)
 
 ### Task 3: Share personal stories or experiences linked to artwork
 
 The projection and ipad combination also supports the sharing of stories. There is an option to either leave a story in the comments box and mark it as “story” or “memory” or to leave an audio recording. The recordings play intermittently when the projection is on. The written stories show up on the wall in random bursts, in between displays of the word cloud.
 
-![Pic3](/img/pic3.jpg)
+![Imgur](https://i.imgur.com/NquQ92w.jpg)
 
  ### Task 4: View comments from and feel community with people who share your ideas
  
 The projection allows users to see a variety of opinions from other museum-goers. This hopefully allows them to find opinions or ideas similar to theirs and feel a sense of community with other museum-goers.
 
-![Pic4](/img/pic4.jpg)
+![Imgur](https://i.imgur.com/XZOz7Lq.jpg)
 
