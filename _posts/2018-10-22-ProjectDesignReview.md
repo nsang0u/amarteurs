@@ -20,3 +20,6 @@ Overall, our new design facilitates the above tasks better than any of our origi
 
 # Storyboard Two: Receiving Validation
 
+![Imgur](https://i.imgur.com/khh1mwI.jpg)
+
+
