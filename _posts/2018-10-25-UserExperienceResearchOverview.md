@@ -147,7 +147,7 @@ Our original 3 proposed designs were very similar in concept: interfaces where u
 
 More on these 3 designs at [Project Design Check-In](https://williamdowns.github.io/amarteurs/2018-10-19-ProjectDesignCheckIn/ "Project Design Check-In").
 
-Given feedback that these designs were too similar, we tried to take the good components from each design and combine them into a single better design. This design took the form of large interactive touch-screens in art exhibits combined with a basic mobile interface to let people comment on individual art pieces and see comments from people with similar ideas. However, this design proved too generic and insufficient for making people feel a sense of social belonging. Thus, we set out to refine our tasks and design with the goal of fostering social belonging in creative and interesting ways.
+Given feedback that these designs were too similar, we tried to take the good components from each design and combine them into a single better design. This design took the form of large interactive touch-screens in art exhibits combined with a basic mobile interface to let people comment on individual art pieces and see comments from people with similar ideas. Moreo n information on this design can be read at [Project Design Review](https://williamdowns.github.io/amarteurs/2018-10-22-ProjectDesignReview/ "Project Design Review"). However, this design proved too generic and insufficient for making people feel a sense of social belonging. Thus, we set out to refine our tasks and design with the goal of fostering social belonging in creative and interesting ways.
 
 
   In refining the tasks we decided to further pursue, our primary consideration was combining tasks that were similar in nature to accommodate for new tasks that arose as we began to refine our design. Compared to previous iterations, we combined “leave comments” with the task of “sharing stories and experiences” because we discovered through the storyboarding process, that those tasks seemed to have significant overlap. A new task that seemed valuable to include in place of “leave comments” was “share emotions”, especially given that many of the responses we saw both in our contextual inquiries and our graffiti wall experiment showed a desire to express instinctive or gut emotional responses. 
@@ -159,7 +159,7 @@ The design we chose to pursue moving forward is a slight variation on the phone 
 
 # Written Scenarios - “1x2”
 
-## Task: Users can to share an emotional reaction to an artwork.
+## Task: Users can share an emotional reaction to an artwork.
 
 
 The user walks through the museum, wandering from artwork to artwork. Having a particular emotional reaction to an artwork, the user opens their phone to the web-app they previously navigated to through the QR codes placed at numerous locations around the museum. The web-app, sensing the artwork that the user is closest in proximity to, prompts the user to select the face/emoji/avatar closest to their emotional reaction to the piece. Upon doing so, the user has the option to elaborate on their reaction with text, prompted by a visualization. 
