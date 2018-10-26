@@ -7,6 +7,10 @@ title: TITLE HERE
 
 # Problem and Solution Overview
 
+
+A significant number of people feel slightly out-of-place or uncomfortable in art museums. The issue we are addressing is that of feeling self-consciousness in art museums either because you feel like your opinions are not valid, or because you feel intimidated by the quiet, serious atmosphere that art museums often exude. Our proposed solution is a QR-code enabled web-app that allows museum-goers to share their emotion about an artwork through a simple panel of faces expressing different moods. The user then receives information about the number of attendees who felt either the same emotion (if there are enough people) or the number of attendees who fell in the same category of emotions. This category of similarity is widened as necessary to ensure that each person is guaranteed a validating response. The smartboard component takes all of the user-provided data and creates a mass visualization of emotions for each artwork, represented through animations of groups of people. By interacting with the smartboard, museum-goers can view and interact with comments that other people have left, thus building a sense of community founded on communal feelings.
+
+
 # Design Research Goals, Stakeholders, and Participants
 
 
@@ -95,6 +99,63 @@ One way things could go wrong is if someone has an emotional response to a paint
 # Proposed Design Sketches - “3x4”
 
 More at [Project Design Check-In](https://williamdowns.github.io/amarteurs/2018-10-19-ProjectDesignCheckIn/ "Project Design Check-In")
+
+Our original 3 proposed designs were very similar in concept: interfaces where users could leave comments and read other people’s comments, with an algorithm designed to show similar comments to the user’s. These designs all focused on the tasks of leaving comments, seeing and responding to others’ comments, sharing personal experiences or stories about art, and feeling validation for opinions or community with people who share similar opinions.
+	
+## First Design: Mobile App
+
+
+![Imgur](https://i.imgur.com/etfzQXa.jpg)
+
+
+## Second Design:  Interactive Smartboard Installations
+
+
+### Task 1: Leave a comment or thought about art!
+
+![Imgur](https://i.imgur.com/sOYfIkV.jpg)
+
+### Task 2: See/Respond to someone else’s thoughts or comments 
+
+![Imgur](https://i.imgur.com/GOYHPbb.jpg)
+
+### Task 3: Share personal stories or experiences linked to artwork
+
+![Imgur](https://i.imgur.com/9fbiJSq.jpg)
+
+ ### Task 4: View comments from and feel community with people who share your ideas
+
+![Imgur](https://i.imgur.com/zDSFhZD.jpg)
+
+### Third Design: 
+
+### Task 1: Leave a comment or thought about art!
+
+![Imgur](https://i.imgur.com/VvYYRHX.jpg)
+
+### Task 2: See/Respond to someone else’s thoughts or comments 
+
+![Imgur](https://i.imgur.com/wV0WrH3.jpg)
+
+### Task 3: Share personal stories or experiences linked to artwork
+
+![Imgur](https://i.imgur.com/cKCSqWK.jpg)
+
+### Task 4: View comments from and feel community with people who share your ideas
+
+![Imgur](https://i.imgur.com/D5TbGuC.jpg)
+
+More on these 3 designs at [Project Design Check-In](https://williamdowns.github.io/amarteurs/2018-10-19-ProjectDesignCheckIn/ "Project Design Check-In").
+
+Given feedback that these designs were too similar, we tried to take the good components from each design and combine them into a single better design. This design took the form of large interactive touch-screens in art exhibits combined with a basic mobile interface to let people comment on individual art pieces and see comments from people with similar ideas. However, this design proved too generic and insufficient for making people feel a sense of social belonging. Thus, we set out to refine our tasks and design with the goal of fostering social belonging in creative and interesting ways.
+
+
+  In refining the tasks we decided to further pursue, our primary consideration was combining tasks that were similar in nature to accommodate for new tasks that arose as we began to refine our design. Compared to previous iterations, we combined “leave comments” with the task of “sharing stories and experiences” because we discovered through the storyboarding process, that those tasks seemed to have significant overlap. A new task that seemed valuable to include in place of “leave comments” was “share emotions”, especially given that many of the responses we saw both in our contextual inquiries and our graffiti wall experiment showed a desire to express instinctive or gut emotional responses. 
+  
+
+
+The design we chose to pursue moving forward is a slight variation on the phone + smartboard design, but it takes elements from all three of our initial designs. Our chosen design features both large touch-interactive screens (one per art exhibit) and a web-app accessible by mobile phone. The web-app helps fulfill three of our primary tasks: expressing emotions, sharing comments, and receiving validation. After opting in via a QR code or something similar at the start of their visit, while walking from painting to painting, the user is prompted with emotion/mood-board selector to specify their emotional response. They are then showed a visualization of people who feel similarly, and are then given the option to expand upon their feeling through a comment. These actions are performed on a phone to enable privacy for the user. The smartboard conglomerates the comments and emotions expressed by users into a larger graphic that shows emotions and comments associated with each painting in a room. In this way, that board creates a sense of community both virtually, and in person when multiple people visit the board at a time. People can also interact with other people’s comments on the board. We decided that this interaction could take place more publicly since interacting with others is a public activity. The combination of the web-app and smartboard help the user feel more comfortable expressing their opinions, especially when those contributions become a part of something larger (like the smartboard visualization). The idea to refocus the design around “emotions” instead of comments stems from the theory of social belonging. The theory is that social belonging is tied significantly to feeling like you belong in a community, which is often achieved through showing people that others in the community feel the same way as them [(as described here)](https://www.psychologyinaction.org/psychology-in-action-1/2015/09/24/the-power-of-social-belonging). Our system of displaying comments from people who feel the same way as a user is a way of achieving this social belonging.
+
 
 # Written Scenarios - “1x2”
 
