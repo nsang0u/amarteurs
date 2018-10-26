@@ -63,7 +63,7 @@ A mobile app that allows people to leave their own comments and to respond to ot
 ### Task 4: Receive validation about your own art opinions, no matter how ridiculous they may seem
 * The user left a comment on a few pieces of art several days ago, and they wonder if anyone else agreed with their thoughts. The user uses the “me” functionality on the main page of the app to look at their own comments. They can see the number of points for each of their comments and how many replies people have posted for each comment. The user can continue commenting in these chains no matter their location.
 
-# Design 2:  Interactive Smartboard Installations with kiosk/ipad 
+# Design 2:  Interactive Smartboard Installations
 
 ## Main Idea
 This design uses interactive, touch sensitive smartboards. Each exhibit hall has one large smartboard placed on a wall in a central location. The smartboard is paired with a motion sensor that allows it to recognize when a museumgoer is approaching. The board displays a wide-angle 360-degree video-like perspective of the exhibit hall in which it is placed, mimicking the view a museumgoer has as they walk around the room looking at the artworks. At idle, when no one has approached, the smartboard displays this view, panning slowly from artwork to artwork, annotating the image with a feed of comments relating to the artwork central in the shot displayed. When an individual approaches, the panning slows, and the user has multiple options with how to interact with the smartboard, outlined in the tasks below.
