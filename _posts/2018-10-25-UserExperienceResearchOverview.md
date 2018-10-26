@@ -183,3 +183,7 @@ The user used the web app to share their emotion about a certain artwork, but th
 
 Task: EMOTION - Users will be able to share an emotional reaction to an artwork.
 ![imgur](https://i.imgur.com/undefined.jpg)
+
+Task: VALIDATION - Users receive validation about their feelings and opinions about art, no matter how trivial or silly those opinions may seem 
+
+![imgur](https://i.imgur.com/5b3unJZ.jpg)
