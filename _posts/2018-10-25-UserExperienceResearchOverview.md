@@ -182,7 +182,7 @@ The user used the web app to share their emotion about a certain artwork, but th
 # Storyboards of the Selected Design
 
 Task: EMOTION - Users will be able to share an emotional reaction to an artwork.
-![imgur](https://i.imgur.com/undefined.jpg)
+![imgur](https://i.imgur.com/Hfi942Q.jpg)
 
 Task: VALIDATION - Users receive validation about their feelings and opinions about art, no matter how trivial or silly those opinions may seem 
 
