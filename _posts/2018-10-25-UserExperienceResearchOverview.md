@@ -1,9 +1,17 @@
 ---
 layout: post
-title: TITLE HERE
+title: Art for Amarteurs
 ---
 
 # Team Member Names and Roles
+
+
+Noah Nsangou: Writer, Inquirer, Ideator, Graphic Designer
+
+Anjali Pai: Writer, Inquirer, Ideator, Graphic Designer
+
+Will Downs: Writer, Inquirer, Ideator, Former Graphic Designer
+
 
 # Problem and Solution Overview
 
