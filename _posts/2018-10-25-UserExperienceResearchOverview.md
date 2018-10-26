@@ -17,7 +17,7 @@ We focused on two concepts in our design research: people with little knowledge 
 In this vein, we pursued an alternative method of design research: a graffiti wall. We hung a painting in Paresky with a sheet of poster paper underneath it that read “Thoughts?” and had a few short sample comments to encourage participation on a short, basic level. This setup remained in place for 24 hours, during which time anyone who walked by was able to write on the paper using a sharpie hung from the wall. Like our contextual inquiries, this research method was meant to provide a casual environment for users to share any thoughts on artwork.
 
 
-More at [link](https://williamdowns.github.io/amarteurs/2018-10-04-ContextualInquiryReview/ "Contextual Inquiry Review")
+More at [Contextual Inquiry Review](https://williamdowns.github.io/amarteurs/2018-10-04-ContextualInquiryReview/ "Contextual Inquiry Review")
 
 # Design Research Results and Themes
 
@@ -25,7 +25,7 @@ More at [link](https://williamdowns.github.io/amarteurs/2018-10-04-ContextualInq
 There were many common themes between what we observed from our two inquiry participants and the comments left on the graffiti wall. Our inquiry participants explicitly expressed how they felt apart from art “culture”. Art amateurs understand and respect that there is a “refined” culture in art museums, but sometimes they don’t want to deal with that culture. Art museums make people feel uncultured, inferior and intimidated. These feelings are often internalized, leading to self-consciousness in museums. Luckily, there is hope for getting art amateurs more engaged in the museum experience. In both our inquiries and the graffiti wall, we observed that people enjoy finding personal connections or associations with a piece of art, and tend to relate art to familiar cultural references. People do enjoy hearing and responding to others’ opinions. Finally, people provide gut reactions and raw emotional responses when given a blank space for opinions. Given all these themes, the rest of our design process has focused on finding ways to let people express their own reactions and ideas while feeling a sense of community with people who share similar thoughts. Through our proposed designs we want art amateurs to feel like they belong in art museums and be encouraged to engage more frequently with art.
 
 
-More at [link](https://williamdowns.github.io/amarteurs/2018-10-04-ContextualInquiryReview/ "Contextual Inquiry Review")
+More at [Contextual Inquiry Review](https://williamdowns.github.io/amarteurs/2018-10-04-ContextualInquiryReview/ "Contextual Inquiry Review")
 
 # Answers to Task Analysis Questions
 
@@ -94,7 +94,7 @@ One way things could go wrong is if someone has an emotional response to a paint
 
 # Proposed Design Sketches - “3x4”
 
-More at [link](https://williamdowns.github.io/amarteurs/2018-10-19-ProjectDesignCheckIn/ "Project Design Check-In")
+More at [Project Design Check-In](https://williamdowns.github.io/amarteurs/2018-10-19-ProjectDesignCheckIn/ "Project Design Check-In")
 
 # Written Scenarios - “1x2”
 
