@@ -38,7 +38,7 @@ The user approaches a piece of art and is prompted to select how they feel. They
 (SCREEN WITH ART AND EMOJIS)
 
 
-The user has chosen their reaction emoji (in this prototype, Angry). They are shown a screen with the reaction they've chosen, with the option to change or share their reaciton. If they change their reaction, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
+The user has chosen their reaction emoji (in this prototype, Angry). They are shown a screen with the reaction they've chosen, with the option to go back or share their reaciton. If they go back, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
 
 
 (SCREEN WITH BIG EMOJI AND OPTIONS TO CHANGE OR SHARE REACTION)
@@ -48,16 +48,16 @@ The user has chosen their reaction emoji (in this prototype, Angry). They are sh
 ## Task 2: Feel Validated
 
 
-The user has chosen to share their reaction emoji. They are told the number of people who felt the same way (chose similar reactions) and are shown that number of faces with the same expression as the one they chose. The user sees that other people reacted the same way they did (the numbers are slightly fudged so that some minimum number of people are always shown to have reacted similarly). THe user feels like they are part of a group and is thus validated. They can tap the "Say More?" button to progress to the next screen.
+The user has chosen to share their reaction emoji. They are told the number of people who felt the same way (chose similar reactions) and are shown that number of faces with the same expression as the one they chose. The user sees that other people reacted the same way they did (the numbers are slightly fudged so that some minimum number of people are always shown to have reacted similarly). THe user feels like they are part of a group and is thus validated. They can tap the "Comment" button to progress to the next screen.
 
 
 (SCREEN WITH NUMBER OF PEOPLE AND EMOJIS SHOWING THE NUMBER OF PEOPLE WHO REACTED SIMILARLY)
 
 
-This screen asks the user to type a comment and shows a picture of the art. They can tap the send button to submit their comment. There is a separate piece of paper in the prototype that says "Type comment" which will place a pre-prepared comment on the screen.
+This screen asks the user to type a comment and shows a picture of the art. They can tap the send button to submit their comment. The comment is pre-prepared in the paper prototype.
 
 
-(SCREEN WITH KEYBOARD OPEN AND PICTURE OF ART, ALSO A LITTLE PIECE OF PAPER WITH A COMMENT ON IT)
+(SCREEN WITH KEYBOARD OPEN AND PICTURE OF ART)
 
 
 The user has submitted their comment and is taken to a screen with comments in speech bubbles. These comments were deemed "similar" to the user's comment, and the words that triggered the similarity algorithm are * bolded *. If other people had similar thoughts, the user is shown that other people had similar thoughts and is thus validated. Otherwise, the user is still shown a list of comments that are deemed closest, so they still feel like part of the Amarteur community. They are prompted to go to the large board if they want to see more comments
