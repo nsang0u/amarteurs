@@ -72,28 +72,31 @@ The user has submitted their comment and is taken to a screen with comments in s
 
 The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples' reactions to that art piece. The user is prompted to select an art piece by tapping.
 
-(BOARD WITH PAINTINGS ON IT)
+
+![Imgur](https://i.imgur.com/d4QCAg6.jpg)
 
 
 The user has selcted a painting by tapping on it. There are a bunch of silhouettes congregated at the painting and a list of emojis at the bottom to choose from to see how many people chose that specific emotion and what they commented.
 
 
-(BOARD WITH PAINTING AND SILHOUETTES AND EMOJIS TO SELECT)
+![Imgur](https://i.imgur.com/peTRmuM.jpg)
 
 
 The user has tapped an emotion and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
 
 
-(SCREEN WITH HIGHLIGHTED PEOPLE AND SPEECH BUBBLES)
+![Imgur](https://i.imgur.com/IiHyYQa.jpg)
 
 
 The user has pressed the comment bubbles and sees all of the comments associated with that reaction lain out in thread format. The user can tap "See Thread" next to a comment if there are existing replies and can directly tap the reply button to move to the replying screen.
 
 
-(SCREEN SHOWING THREAD OF COMMENTS)
+![Imgur](https://i.imgur.com/TYC7cNW.jpg)
 
 
 The user tapped the "See Replies" button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments using the keyboard. The user is an active part of the Amarteur community by doing so.
 
 
-(SCREEN SHOWING REPLIES OF COMMENTS)
+![Imgur](https://i.imgur.com/rpnoHPn.jpg)
+
+![Imgur](https://i.imgur.com/6wfOcq6.jpg)
