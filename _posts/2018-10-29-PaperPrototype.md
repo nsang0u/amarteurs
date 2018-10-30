@@ -42,7 +42,7 @@ The user approaches a piece of art and is prompted to select how they feel. They
 ![Imgur](https://i.imgur.com/4Lrf5Hr.jpg)
 
 
-The user has chosen their reaction emoji (in this prototype, Happy). They are shown a screen with the reaction they've chosen, with the option to go back or share their reaciton. If they go back, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
+The user has chosen their reaction emoji (in this prototype, Happy). They are shown a screen with the reaction they've chosen, with the option to go back or share their reaction. If they go back, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
 
 
 ![Imgur](https://i.imgur.com/lI1UWBI.jpg)
