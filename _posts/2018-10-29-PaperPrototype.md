@@ -8,7 +8,7 @@ Our paper protoype shows the main components of the two parts of our design (a m
 ## Overview
 
 
-(OVERVIEW IMAGE)
+![Imgur](https://i.imgur.com/iOxzIfR.jpg)
 
 
 ## Task 1: Share an Emotion
