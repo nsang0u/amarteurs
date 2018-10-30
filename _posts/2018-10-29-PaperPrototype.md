@@ -36,13 +36,13 @@ Here is the idle screen of the webapp, waiting for the user to approach a piece 
 
 
 
-The user approaches a piece of art and is prompted to select how they feel. They can tap to select an emotion from the different emojis below the piece of art. In the prototype, the user can only select the Angry emoji.
+The user approaches a piece of art and is prompted to select how they feel. They can tap to select an emotion from the different emojis below the piece of art. In the prototype, the user can only select the Happy emoji.
 
 
 ![Imgur](https://i.imgur.com/4Lrf5Hr.jpg)
 
 
-The user has chosen their reaction emoji (in this prototype, Angry). They are shown a screen with the reaction they've chosen, with the option to go back or share their reaciton. If they go back, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
+The user has chosen their reaction emoji (in this prototype, Happy). They are shown a screen with the reaction they've chosen, with the option to go back or share their reaciton. If they go back, they return to the previous screen with the possible emotions and the photo of the piece of art. If they choose to share, they are brought to the next screen.
 
 
 ![Imgur](https://i.imgur.com/lI1UWBI.jpg)
@@ -52,7 +52,7 @@ The user has chosen their reaction emoji (in this prototype, Angry). They are sh
 ## Task 2: Feel Validated
 
 
-The user has chosen to share their reaction emoji. They are told the number of people who felt the same way (chose similar reactions) and are shown that number of faces with the same expression as the one they chose. The user sees that other people reacted the same way they did (the numbers are slightly fudged so that some minimum number of people are always shown to have reacted similarly). THe user feels like they are part of a group and is thus validated. They can tap the "Comment" button to progress to the next screen.
+The user has chosen to share their reaction emoji. They are told the number of people who felt the same way (chose similar reactions) and are shown that number of faces with the same expression as the one they chose. The user sees that other people reacted the same way they did (the numbers are slightly fudged so that some minimum number of people are always shown to have reacted similarly). The user feels like they are part of a group and is thus validated. They can tap the "Comment" button to progress to the next screen.
 
 
 ![Imgur](https://i.imgur.com/jW4zg7M.jpg)
@@ -70,7 +70,7 @@ The user has submitted their comment and is taken to a screen with comments in s
 ![Imgur](https://i.imgur.com/Bti8VXd.jpg)
 
 
-The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples' reactions to that art piece. The user is prompted to select an art piece by tapping.
+The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples' reactions to that art piece. The user is prompted to select an art piece by tapping. In the prototype they should choose "One Sheep, Two Sheep".
 
 
 ![Imgur](https://i.imgur.com/d4QCAg6.jpg)
@@ -82,7 +82,7 @@ The user has selcted a painting by tapping on it. There are a bunch of silhouett
 ![Imgur](https://i.imgur.com/peTRmuM.jpg)
 
 
-The user has tapped an emotion and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
+The user has tapped an emotion (_Angry_ in this prototype) and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
 
 
 ![Imgur](https://i.imgur.com/IiHyYQa.jpg)
