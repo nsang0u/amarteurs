@@ -86,7 +86,7 @@ The comments should not look like a conversation; we have adjusted the board's v
 We added a bit of text at the top of the page to indicate that these comments are similar to the user's.
 
 
-![Imgur](https://i.imgur.com/tIjhPV2.jpg)
+![Imgur](https://i.imgur.com/lX4Pwug.jpg)
 
 * The back buttons on the phone leave a comment screen and similar comments screen have unclear destinations, violating heuristic 3: user control and freedom with a severity of 2.
 
@@ -126,7 +126,7 @@ From our findings with the grafitti wall, we believe that some people enjoy draw
 We added these buttons immediately upon receiving this feedback during the evaluation, as shown in the images below.
 
 
-![Imgur](https://i.imgur.com/Wm3jKG3.jpg)
+![Imgur](https://i.imgur.com/dpwZGbW.jpg)
 
 
 * The hues surrounding the paintings on the smartboard may be too much info for the home screen of the smartboard, violating heuristic 8: aesthetic and minimalist design with a severity of 1.
