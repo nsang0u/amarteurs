@@ -105,15 +105,15 @@ The user was confused by the button depicting a pencil on the large screen’s r
 
 We’ve added two larger buttons on the side of the large screen’s comment box that say “TYPE” and “WRITE” (with WRITE in more of a handwritten font). If you touch “TYPE”, a keyboard will pop up. If you touch “WRITE”, a pop-up says “Write your comment with one of the styluses located next to the screen!”
 
-### Reflections and Future Tests
+## Reflections and Future Tests
 
-## What We Learned
+### What We Learned
 
 Our first usability testing affirmed the virtues of underspecification. We only provided our participant with information about the setting they were in and a basic explanation of the tasks we wanted them to complete. We did not provide any information about the web app itself, and therefore we were able to assess whether the steps to complete those tasks were easy to uncover from the design. It was valuable to watch our participant react to the different screens that they came into contact with and we were able to gauge how first time users of our design would respond. This also allowed use to properly identify points where the outcome of a certain action was surprising or unexpected for the user. These were some of the points that we have identified as weaknesses.
 
 One thing we did find during this process was that the guidelines we had prepared before the usability test did not cover all of the important information that we ended up needing to provide our participant. For example. We had not anticipated needing to explain some of the visual components of the interactive display (especially those components that involved motion or dynamic visualizations and therefore could not be effectively represented by our paper prototype). We have noted this added information for future usability tests.
 
-## Looking Forward
+### Looking Forward
 
 For our future usability tests, we will continue to target Williams college students who consider themselves art amateurs. However, we think it would be interesting to diversify our participants slightly to understand a broader user-base. In particular, we plan to run a usability test with one non-amateur (aka someone is well versed with or spends a decent amount of time with art) to see how people outside of our primary intended user-base would interact with our design. We feel this is valuable since our current design, while intended for a specific group of people, would be accessible to all museum-goers. We also feel this outside perspective would enhance our design and make it more robust for a variety of users. 
 
