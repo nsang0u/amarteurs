@@ -129,7 +129,7 @@ Iris mentioned that we should have our "filter by feeling" screen animated to ma
 
 Iris pointed out that the message telling people to tap a piece of art would not be usable for children and non-english speakers. We give this issue a severity of 2. 
 
-![Image]https://i.imgur.com/nBvcG6n.jpg
+![Image] https://i.imgur.com/nBvcG6n.jpg
 
 As Iris suggested, we added a hand icon which would be animated in a real electronic design to show the user that they can tap a piece of art.
 
@@ -221,7 +221,7 @@ The user has selcted a painting by tapping on it. There are a bunch of silhouett
 The user has tapped an emotion (_Angry_ in this prototype) and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
 
 
-![[Imgur](https://i.imgur.com/5wSX7VN.jpg)
+![Imgur](https://i.imgur.com/5wSX7VN.jpg)
 
 
 The user has pressed the comment bubbles and sees all of the comments associated with that reaction lain out. The user can tap "See Thread" next to a comment if there are existing replies and can directly tap the reply button to move to the replying screen.
@@ -240,4 +240,19 @@ The user tapped the "See Replies" button and now sees all of the replies to that
 
 ## Our Most Important Revisions
 
-TEXT HERE
+### Revision 1 - Finding the Virtual Display 
+
+The first critical revision we made was modifying the final screen of our web app so that the relationship between the web app and the interactive display was more clear. We modified the screen so that there was a button that said “see more at nearest display”. By pressing this button, users would be redirected to a map that directs them to the nearest screen. This feature was added after feedback from our first usability test, and we discovered that it helped alleviate some of the confusion around the relationship between the web app and the board. Clarifying this connection is important for our design because the interaction between the web app and the interactive display is critical to the process of cultivating community and acceptance for the user. It would also be ineffective to have the interactive display if users were unaware of it or did not understand its purpose.
+
+### Revision 2- Adding general statistics
+
+The participants of our final two usability tests (Christinart and Richart) both expressed a desire for more general statistics. Richart brought up the key point that simply validating the user constantly without providing other interesting statistics such as percentages or “emotion” breakdowns of all museum-goers may have diminishing returns over time. To improve this, we have added a button to both the home screen of the visualization and the artwork-specific screen with the silhouette people. The former button allows the user to see exhibit-wide statistics, including breakdowns of different emotions across the exhibit. The latter allows the user to see a similar set of statistics for the selected painting. One of the primary statistics visualizations we designed is an emoji-style face that is also a pie chart of different emotions. We believe that adding such a feature is critical to enhancing the experience for the user and keeping them interested in using our design. It also adds another element to the “community-building” aspect of our design.
+
+### Revision 3 - Clarifying the silhouette visualization on the interactive display.
+
+One of the most valuable pieces of feedback we received from our first usability test was that the participant was confused by the group of silhouetted people that appeared when she chose a painting on the interactive display. We had intentionally left the group of people silhouetted because they represented the entire group of viewers of that painting. When the user selected a feeling to filter by, a certain portion of the group would glow in a specific color. This logic was not, however, immediately obvious to our participant. In response to her confusion, we added two features. The first is a simple explanation on the size of the visualization that says “This is the group of all the people who viewed this painting”. The purpose of this line is to clarify explicitly, what the group is meant to represent. It also provides a good context for the “filter by feeling” component. The second feature we added is that  in its idle state, different portions of the silhouetted group will light up in different colors as the emotions corresponding to those colors light up as well. This is a visual representation of the idea that the large group we display represent the group of all viewers and is effectively a conglomeration of groups of viewers who expressed different emotions. These are critical features because in order to effectively interact with the board, it is imperative that our visualization be clear and that their intention be obvious to the museum-goer. We want them to spend no time being confused and more time exploring our design.
+
+### Revision 4 - Keyboard/Pen options on the comment box
+
+In our initial design, when the user chose to reply to someone’s comment on the interactive display, they were shown a reply box with options to type their reply or write it using a stylus. We discovered through our usability tests that those options were too small and not obvious at all to the user. To clarify this, we added large buttons to the side of the reply box. Clicking the “Type” button pops up an on-screen keyboard. Clicking the Write button pops up directions to “Write your comment using one of the styluses near the board”. With these added instructions, these two options become more accessible to the user. The reason we care about this, is because we feel that allowing the option to hand-write your reply adds to the “amateur” aspect of the community we are construction, and creates a more personal feel to interactions.
+
