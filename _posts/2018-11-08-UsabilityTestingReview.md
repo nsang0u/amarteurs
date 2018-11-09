@@ -109,7 +109,7 @@ Richart mentioned that he had no context for the "65 people" number that was sho
 ![Imgur](https://i.imgur.com/YMGF1Er.jpg)
 
 
-While we think having the app only show raw numbers of people is the best way for people to feel like they belong to a group (low percentages may be demoralizing), we agree that a combination of statistics and raw numbers would be good to provide to the curious user. We've added this functionality to the large display rather than the phone so that people who want to "explore" other responses can see this information, but phone users are not immediately told that they are part of an extremely small group. We think this is the best balance between interesting information and promoting social belonging.
+While we think having the app only show raw numbers of people is the best way for people to feel like they belong to a group (low percentages may be demoralizing), we agree that a combination of statistics and raw numbers would be good to provide to the curious user. We've added this functionality to the large display rather than the phone so that people who want to "explore" other responses can see this information, but phone users are not immediately told that they are part of an extremely small group. We think this is the best balance between interesting information and promoting social belonging. A raw number and a percentage of the total appears reactions appears when the user selects a reaction on the board. The user can also press a button that says "View Total Statistics" to highlight every group at once and show numbers and percentages for all of them.
 
 
 ![Imgur](https://i.imgur.com/5wSX7VN.jpg)
