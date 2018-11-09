@@ -135,7 +135,7 @@ As Iris suggested, we added a hand icon which would be animated in a real electr
 
 ![Imgur](https://i.imgur.com/BDhuH5a.jpg)
 
-Iris encouraged us to pursue more forms of data visualization. Combined with Richart's request for more statistics, we added a visualization to the large display available when clicking a "View Total Statistics" button. The visualization shows the total proportions of emotional responses for the entire exhibit, so users can see how people responded to the exhibit as a whole rather than just a specific piece of art. The visualization shows a face paritioned like a pie chart into colors and portions of a facial expression representing how people reacted.
+Iris encouraged us to pursue more forms of data visualization. Combined with Richart's request for more statistics, we added a visualization to the large display available when clicking a "TAP" button to see exhibit-wide statistics. The visualization shows the total proportions of emotional responses for the entire exhibit, so users can see how people responded to the exhibit as a whole rather than just a specific piece of art. The visualization shows a face paritioned like a pie chart into colors and portions of a facial expression representing how people reacted.
 
 ![Imgur](https://i.imgur.com/Haiz3CA.jpg)
 
