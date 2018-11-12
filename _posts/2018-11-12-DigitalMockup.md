@@ -37,7 +37,3 @@ This screen asks the user to type a comment. They can tap the send button to sub
 The user has submitted their comment and is taken to a screen with comments in speech bubbles. These comments were deemed “similar” to the user’s comment, and the words that triggered the similarity algorithm are bolded. If other people had similar thoughts, the user is shown that other people had similar thoughts and is thus validated. Otherwise, the user is still shown a list of comments that are deemed closest. They are prompted to go to the large screen if they want to see more comments, and can click the button over this text to go to a map showing the location of the screen.
 ![Imgur](https://i.imgur.com/5E1rKiH.png)
 
-![Imgur](https://i.imgur.com/5E1rKiH.png)
-
-
-![Imgur](https://i.imgur.com/ENn6KjJ.png)
