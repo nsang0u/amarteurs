@@ -130,7 +130,7 @@ We’ve added two larger buttons on the side of the large screen’s comment box
 The user begins on their phone's camera screen. A QR code at the front desk of the museum brings the user to the Amarteurs webpage.
 
 
-![Imgur](https://i.imgur.com/b7dCPAr.jpg)
+![Imgur](https://i.imgur.com/Gzw1pIp.jpg)
 
 
 The user arrives at the Amarteurs webpage where they are asked for permission to run the webapp. If they hit Decline, the prototype is over. If they hit Accept, they will be brought to the app's idle screen.
