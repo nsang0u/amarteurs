@@ -48,6 +48,28 @@ The user has submitted their comment and is taken to a screen with comments in s
 
 ![Imgur](https://i.imgur.com/NDJGRh7.png)
 
+## Task 2: 
+
+The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples’ reactions to that art piece. The user is prompted to select an art piece by tapping. In the prototype they should choose “One Sheep, Two Sheep”.
+
+
+
+The user has selcted a painting by tapping on it. There are a bunch of silhouettes congregated at the painting and a list of emojis at the bottom to choose from to see how many people chose that specific emotion and what they commented. These selections rotate automatically waiting for the user to press one.
+
+
+
+The user has tapped an emotion (Angry in this prototype) and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
+
+
+
+The user has pressed the comment bubbles and sees all of the comments associated with that reaction lain out. The user can tap “See Thread” next to a comment if there are existing replies and can directly tap the reply button to move to the replying screen.
+
+
+
+The user tapped the “See Replies” button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments using the keyboard.
+
+
+
 ## Discussion
 
 Reflecting on our digital mockup, it is clear that we have not made any significant changes to the structure of our design. The mockup includes all the important revisions implemented over the course of our cognitive walkthroughs and usability tests. One change we did implement in the transition from paper to digital prototype pertains to the comment-adding screen on the phone web-app. Previously, the user was not able to see the corresponding artwork while drafting their comment. We have added this functionality to the digital prototype, allowing the user to see the artwork they’re commenting about as they type. 
