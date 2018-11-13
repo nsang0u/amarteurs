@@ -7,13 +7,18 @@ The following is an overview of our digital mockup, created with Balsamiq.
 
 ## Interactive Display Overview
 
-Overview
+All states:
 
 ![Imgur](https://i.imgur.com/idV6LbG.png)
 
 ![Imgur](https://i.imgur.com/viIYGyi.png)
 
 ![Imgur](https://i.imgur.com/GyWr3Fy.png)
+
+## Phone Web-App Overview
+
+All states:
+![Imgur](https://i.imgur.com/mwdX5Ri.png)
 
 ## Task 1: Sharing Emotions: Find a piece of art and share an emotional response. Figure out how many people felt the same way.
 
