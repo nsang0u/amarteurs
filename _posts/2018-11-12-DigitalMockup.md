@@ -7,6 +7,8 @@ The following is an overview of our digital mockup, created with Balsamiq.
 
 ## Interactive Display Overview
 
+Overview
+
 ![Imgur](https://i.imgur.com/idV6LbG.png)
 
 ![Imgur](https://i.imgur.com/viIYGyi.png)
