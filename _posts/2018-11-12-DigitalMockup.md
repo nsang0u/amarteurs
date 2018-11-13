@@ -52,23 +52,41 @@ The user has submitted their comment and is taken to a screen with comments in s
 
 The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples’ reactions to that art piece. The user is prompted to select an art piece by tapping. In the prototype they should choose “One Sheep, Two Sheep”.
 
+![Imgur](https://imgur.com/zkX3U8r)
 
+![Imgur](https://imgur.com/vFiNcha)
 
-The user has selcted a painting by tapping on it. There are a bunch of silhouettes congregated at the painting and a list of emojis at the bottom to choose from to see how many people chose that specific emotion and what they commented. These selections rotate automatically waiting for the user to press one.
+The user has selected a painting by tapping on it. There are a bunch of silhouettes congregated at the painting and a list of emojis at the bottom to choose from to see how many people chose that specific emotion and what they commented. In the actual implementation, these selections would rotate automatically waiting for the user to press one.
 
+![Imgur](https://imgur.com/SkMwOSg)
 
+The user has tapped an emotion (Angry in this prototype) and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the group of people takes the user to a thread of comments from that group
 
-The user has tapped an emotion (Angry in this prototype) and now sees the highlighted silhouettes of people who reacted with this emotion. They are also shown comment bubbles coming from the highlighted silhouettes. Tapping the comment bubbles takes the user to a thread of comments from that group
+![Imgur](https://imgur.com/BDC0hUR)
 
+![Imgur](https://imgur.com/21YPiQf)
 
 
 The user has pressed the comment bubbles and sees all of the comments associated with that reaction lain out. The user can tap “See Thread” next to a comment if there are existing replies and can directly tap the reply button to move to the replying screen.
 
+![Imgur](https://imgur.com/21YPiQf)
 
 
-The user tapped the “See Replies” button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments using the keyboard.
+The user tapped the “See Thread” button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments using the keyboard.
 
+![Imgur](https://imgur.com/I8vvrIe)
 
+**Reply**
+
+![Imgur](https://imgur.com/52uVR8x)
+
+**Type**
+
+![Imgur](https://imgur.com/B3UgQWA)
+
+**Write**
+
+![Imgur](https://imgur.com/MxFo9bY)
 
 ## Discussion
 
