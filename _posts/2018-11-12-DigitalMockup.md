@@ -50,7 +50,7 @@ The user has submitted their comment and is taken to a screen with comments in s
 
 ## Task 2: 
 
-The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples’ reactions to that art piece. The user is prompted to select an art piece by tapping. In the prototype they should choose “One Sheep, Two Sheep”.
+The user has gone to the board. In its initial state, it has a visualization of the exhibit with paintings surrounded by hues representing peoples’ reactions to that art piece. The user is prompted to select an art piece by tapping. In the prototype they choose "Lilac Sheep".
 
 ![Imgur](https://imgur.com/zkX3U8r.png)
 
@@ -72,19 +72,21 @@ The user has pressed the comment bubbles and sees all of the comments associated
 ![Imgur](https://imgur.com/21YPiQf.png)
 
 
-The user tapped the “See Thread” button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments using the keyboard.
+The user tapped the “See Thread” button and now sees all of the replies to that comment uncollapsed. The user can reply to any of these comments by clicking the reply button.
 
 ![Imgur](https://imgur.com/I8vvrIe.png)
 
-**Reply**
+### Reply
 
 ![Imgur](https://imgur.com/52uVR8x.png)
 
-**Type**
+The user can choose whether to type their reply or write it using a stylus found near the display.
+
+### Type
 
 ![Imgur](https://imgur.com/B3UgQWA.png)
 
-**Write**
+### Write
 
 ![Imgur](https://imgur.com/MxFo9bY.png)
 
