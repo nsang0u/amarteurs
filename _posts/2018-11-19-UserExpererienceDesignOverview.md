@@ -139,8 +139,12 @@ We produced walkthroughs of our two primary tasks throughout all of our prototyp
 ### Task 1: Find a piece of art and share an emotional response. Figure out how many people felt the same way as you.
 Our digital mockup supports sharing an emotion and comments about an artwork. The web-app mockup has a screen that would appear when a user approaches a painting.
 ![Imgur](https://i.imgur.com/hYX2FXO.png)
+
+
 The screen displays the work of art at the top followed by a prompt such as “How do you feel about this painting?”. The user is then given six faces to choose from, each representing a different emotion. Upon selecting an emotion, the user is taken to a screen that displays the face they selected with two options: a submit button and a back button.
 ![Imgur](https://i.imgur.com/Y9WM6Gj.png)
+
+
 Each button is accompanied with minimal instruction about what the result of pressing the button would be. After submitting their “emotion” the user is taken to a screen displaying a graphic of the number of people who shared that same emotion, along with the exact number of people. 
 ![Imgur](https://i.imgur.com/jogUFjg.png)
 
