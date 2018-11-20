@@ -31,3 +31,29 @@ Both of these prototypes facilitated our two primary tasks. Our two primary task
 ![Imgur](https://i.imgur.com/TYC7cNW.jpg)
 
 Through these tasks users can leave their own responses, feel community by seeing responses from people who think similarly, and explore how people with other opinions feel. For more details, visit [Paper Prototype](https://williamdowns.github.io/amarteurs/2018-10-29-PaperPrototype/).
+
+# Testing Process
+
+To test the clarity and usability of our design, we conducted three forms of investigation. The first was a heuristic evaluation where we had two groups of users (handpicked from our classmates) walk through our two primary tasks on our paper prototype. The goal was to identify heuristics of good design on which our paper prototype failed. We then updated our design to ensure that we were heuristically sound. For more details, visit [Heuristic Evaluations](https://williamdowns.github.io/amarteurs/2018-11-01-HeuristicEvaluations/). The next step of our testing was to consider the cognitive process of using our app. We ran a cognitive walkthrough to determine if the steps required to complete our core tasks with our app followed logically from each other. 
+
+
+
+Our final and most intensive testing step was to test our design in a more realistic setting, with people in our target user-group. In order to accomplish this, we ran three usability tests. All of the tests were held in a study room in Schow library, which we outfitted to simulate a gallery in a museum featuring our design. By doing so, we provided a scenario in which our design would be used, and placed the user in realistic conditions while still having an uninterrupted, quiet environment. Two of our participants fit into the category of “art amateurs” (self-defined) and one fell somewhere between an “art amateur” and an “art enthusiast”. After our first usability test, we discovered that our protocol needed to be slightly modified to provide users with a slightly higher baseline of context about the design. We made that modification, which greatly improved our next two usability tests.
+
+
+In retrospect, our testing process definitely shifted as we ran more tests on our paper prototype. In our first few tests we were unsure about exactly how the user would interact with the web-app and the interactive display. After observing a few interactions, however, we began to understand the relationship between the two components better and we were able to use that to change our tasks such that we were explicitly forcing the user to think about the connection between the app and the display. This helped us figure out where there were gaps in understanding.
+
+
+# Testing Results
+
+
+# Final Paper Prototype
+
+
+# Digital Mockup
+
+
+# Discussion
+
+
+# Appendix
