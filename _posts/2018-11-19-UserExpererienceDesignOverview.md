@@ -47,10 +47,53 @@ In retrospect, our testing process definitely shifted as we ran more tests on ou
 # Testing Results
 
 
+Carrying out each stage of our testing process -- heuristic evaluation, cognitive walkthrough and usability testing -- has allowed us to glean valuable information about how our design succeeded and failed with respect to principles of usability and crucial design heuristics. Heuristic evaluation yielded myriad changes to our design, most notably pertaining to heuristic 8 (aesthetic and minimalist design) and heuristic 2 (matching between the system and the real world). We learned that our design was at times ambiguous and looked cluttered. To resolve the identified issues, we made changes to the appearance of our emoji icons, adding color, altering some of the expressions and changing the order in which they are presented on-screen so as to follow a more intuitive spectrum of emotion. Here are pictures of the new angry to excited spectrum and the revised confusion emoji:
+
+![Imgur](https://i.imgur.com/Wm3jKG3.jpg)
+![Imgur](https://i.imgur.com/gbXOswr.jpg)
+
+
+Additionally, we decluttered our text-heavy pages by making the content more concise. Through conducting cognitive walkthroughs, we learned that our design contained aspects which might not make it easy for the user to understand whether or not their actions would be correct. We changed the wording of our ‘share’ buttons and added help buttons to aid the users in navigating the interface. Here is a before-and-after of our submit emoji screen after clarifying the purpose of different actions:
+
+![github](https://camo.githubusercontent.com/9f26dfbb736aa908a989aa9e73b7f86fd93e58e1/68747470733a2f2f692e696d6775722e636f6d2f6c4931555742492e6a7067)
+![Imgur](https://i.imgur.com/vd3rCoL.jpg)
+
+
+Usability testing revealed to us multiple insights about how potential users actually felt in interacting with our design. Most notably, we found areas of our design that caused users confusion. Multiple users felt confused by the relationship between the web app and the board; we accordingly added guidance within the phone interface to better explain the spatial and conceptual relationship, and show users where exactly the displays are. Here is one of the screens added to help explain the purpose and locations of the boards:
+
+![Imgur](https://i.imgur.com/PXwV2uo.jpg)
+
+
+Users were also found to be confused by some of our visualizations, so we added concise clarification to the interface and added more general visualizations and statistics, which also address a separate issue expressed by our users pertaining to a shortage of interesting features. Here is an example of the new statistics we added:
+
+![Imgur](https://i.imgur.com/Haiz3CA.jpg)
+
+
+We made a number of additional minor revisions, explained in detail in the [reports](https://williamdowns.github.io/amarteurs/2018-11-08-UsabilityTestingReview/) [below](https://williamdowns.github.io/amarteurs/2018-11-04-UsabilityTestingCheckin/). Overall, our testing helped us understand aspects of our design that confused users or made their experience more difficult, and allowed us to make changes to address these issues. 
+
+
+
 # Final Paper Prototype
 
 
+
+After conducting our tests and receiving feedback, we created a final paper prototype of our design. This final prototype fully supports the tasks of leaving emotional responses and seeing how many felt the same way, as well as leaving comments and seeing how people who reacted differently commented. As in our initial prototype, there are two main components to this design: a web app that allows users to share their feelings about artwork they find in the museum, view the number of users who felt the same way as them, submit a follow-up comment, and view a selection of comments similar to theirs, and a interactive visual display that allows the user to browse paintings in the gallery, see the users who viewed a painting, filter the users by emotion expressed, and view both general gallery-wide statistics and comments and statistics for different subsets of viewers. Below is an overview of our final paper prototype:
+
+![Imgur](https://i.imgur.com/nZzw1zi.jpg)
+
+
+Compared to our original paper prototype our final paper prototype contains multiple added features that improve accessibility and ease of cognitive understanding; in other words, they make the design easier to understand and use. A majority of the valuable design changes involved aiding the user in understanding how to use the interactive display, what its purpose is, and how it connects with the web app. Our final prototype of the interactive display, in its idle state, shows an AR-style view of the current gallery with arrows indicating that the user can swipe through the gallery and an icon of a finger along with the instruction “Tap an artwork to explore” to clearly indicate how the user is meant to proceed. When they select an artwork, they are taken to a screen with the selected artwork and a crowd of people, which, as the text blurb explains, is the group of people who have responded to this artwork. They are then presented with “emojis” and the option to “Filter by Feeling”. Later they are able to see comment chains and respond to them. If they select to respond they are given clear options of typing or using a stylus (which we discovered was ambiguously presented in our original prototype)
+
+
+
+The primary design focus of the web-app is simplicity. We strived to maintain the limited number of screens and options while still adding necessary features such as a help screen with a description of how the app and display are intended to be used, and some clarifying instructions about how the app relates to the display. We did so with minimal text, simply by making our buttons more clear and descriptive and adding features such as a map that will direct users to the nearest interactive display.
+
+
+
 # Digital Mockup
+
+
+
 
 
 # Discussion
