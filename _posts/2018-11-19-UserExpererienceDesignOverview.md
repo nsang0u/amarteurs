@@ -127,6 +127,7 @@ After our paper prototype, we created a digital mockup in Balsamiq. Our digital 
 Complete clickable PDFs are available [here for the phone mockup](https://github.com/WilliamDowns/amarteurs/blob/gh-pages/Phone%20Mockup.pdf) and [here for the large display mockup](https://github.com/WilliamDowns/amarteurs/blob/gh-pages/Large%20Interactive%20Display%20Mockup.pdf)
 One element we were really able to hone in the digital mockup was the use of color. The backgrounds for all of our screens are soft pastels to cultivate a sense of “calm”. Based on feedback we received on our original digital mockup, we have also updated the emoji color to softer colors that are less bright and clash less with the background.
 
+
 ![Imgur](https://i.imgur.com/hYX2FXO.png)
 
 
@@ -138,33 +139,47 @@ We produced walkthroughs of our two primary tasks throughout all of our prototyp
 
 ### Task 1: Find a piece of art and share an emotional response. Figure out how many people felt the same way as you.
 Our digital mockup supports sharing an emotion and comments about an artwork. The web-app mockup has a screen that would appear when a user approaches a painting.
+
+
 ![Imgur](https://i.imgur.com/hYX2FXO.png)
 
 
 The screen displays the work of art at the top followed by a prompt such as “How do you feel about this painting?”. The user is then given six faces to choose from, each representing a different emotion. Upon selecting an emotion, the user is taken to a screen that displays the face they selected with two options: a submit button and a back button.
+
+
 ![Imgur](https://i.imgur.com/Y9WM6Gj.png)
 
 
 Each button is accompanied with minimal instruction about what the result of pressing the button would be. After submitting their “emotion” the user is taken to a screen displaying a graphic of the number of people who shared that same emotion, along with the exact number of people. 
+
+
 ![Imgur](https://i.imgur.com/jogUFjg.png)
 
 
 ### Task 2: Leave a comment about an artwork and see how people who felt differently reacted
 On the web app, after a user submits their emotion they are given the option to comment. If they choose to comment, they are taken to a screen with a comment box and an on screen keyboard, where they can type their comment and submit. 
+
+
 ![Imgur](https://i.imgur.com/XE5kcFk.png)
+
 
 If they submit, they are taken to a screen with other comments similar to theirs displayed in a scrollable timeline fashion.
 
+
 ![Imgur](https://i.imgur.com/5E1rKiH.png)
+
 
 On this page they see a button that says “see more at the nearest display”. This button leads to a map that directs users to the nearby display. 
 
+
 ![Imgur](https://i.imgur.com/Ni0AYsW.png)
+
 
 This button and map were added based on feedback from our usability tests, wherein we discovered that participants did not intuitively understand the relationship between the web-app and the board. 
 
 
 At the board, a user can select an artwork in the gallery by tapping it (as is indicated by the finger image). Alternatively they could choose to see gallery-wide statistics.
+
 
 ![Imgur](https://imgur.com/zkX3U8r.png)
 
