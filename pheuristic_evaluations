@@ -1,0 +1,171 @@
+
+
+
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+
+<head>
+	<title>Heuristic Evaluations</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1" />
+	<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
+
+</head>
+
+<body>
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Header -->
+		<header id="header">
+			<h1>Heuristic Evaluations</h1>
+		</header>
+
+		<!-- Main -->
+		<div id="main">
+
+			<!-- Content -->
+			<section id="content" class="main">
+      
+      <p>Below is the feedback received in our Heuristic Evaluations and how we tackled these issues.</p>
+
+<p>The first evaluation was facilitated by Noah in cooperation with Kelvin and Geoffrey of Personal Curatour.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/Os2skMj.jpg" alt="Imgur" /></span></div>
+
+<p>The second evaluation was facilitated by Anjali and Will in cooperation with Julia of Personal Curatour.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/7siPwYN.jpg" alt="Imgur" /></span></div>
+
+<p>Here is an overview image of our revised design:</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/nD4bORS.jpg" alt="Imgur" /></span></div>
+
+<p>Below is a list of the issues identified and how we responded to them.</p>
+
+<ul>
+<li>The emotion icons are ambiguous, violating heuristic 2: matching between the system and the real world with a severity of 1.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/cPpef6I.jpg" alt="Imgur" /></span></div>
+
+<p>We believe that the lack of the color in the smartboard paper prototype makes those emotions more ambiguous than they would be in the real design (where they would match commonly known emojis), but we agree that the "confusion" face is particularly ambiguous and have adjusted it accordingly.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/gbXOswr.jpg" alt="Imgur" /></span></div>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/Wm3jKG3.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The comment-viewing screens on the app and smartboard have inconsistent interfaces, violating heuristic 4: consistency and standards with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/UOgDfDe.jpg" alt="Imgur" /></span></div>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/igBGujC.jpg" alt="Imgur" /></span></div>
+
+<p>We have adjusted the smartboard interface to more closely match the phone interface.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/Df49z4p.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>Emotions are seemingly randomly arranged in a line rather than as a spectrum, violating heuristic 2: matching between the system and the real world with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/cPpef6I.jpg" alt="Imgur" /></span></div>
+
+<p>We rearranged the line of emojis on the smartboard to be on a spectrum from angry to excited.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/Wm3jKG3.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>Comments on the smartboard look like a conversation rather than discrete threads, violating heuristic 4: consistency and standards with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/igBGujC.jpg" alt="Imgur" /></span></div>
+
+<p>The comments should not look like a conversation; we have adjusted the board's view of other users' comments to more closely match the phone's interface, which does not give the illusion of a conversation.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/Df49z4p.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The screen on the phone that shows similar comments to the user's comment does not inform the user that these comments are supposed to be similar, violating heuristic 6: recognition rather than recall with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/UOgDfDe.jpg" alt="Imgur" /></span></div>
+
+<p>We added a bit of text at the top of the page to indicate that these comments are similar to the user's.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/lX4Pwug.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The back buttons on the phone leave a comment screen and similar comments screen have unclear destinations, violating heuristic 3: user control and freedom with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/UOgDfDe.jpg" alt="Imgur" /></span></div>
+
+<p>We changed the leaving a comment screen slightly to make it more of an overlay of the "Thanks for sharing! This many people felt the way you do" screen rather than its own page, hopefully making it clear that the back button on the seeing other comments screen should go to the "Thanks for sharing! This many people felt the way you do" screen (we had not previously considered the functions of the back buttons on these screens, but this seems like a logical solution).</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/o4rqK5i.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The "Thanks for Sharing" page has a lot of text, violating heuristic 8: aesthetic and minimalist design with a severity of 2.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/vxFd29N.jpg" alt="Imgur" /></span></div>
+
+<p>We slightly decreased the amount of text and believe that on a true phone the text will appear smaller. We believe the remaining text serves an important explanatory function in the interface.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/tIjhPV2.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The option to have both keyboard and writing functionality on the smartboard seems unnecessary, violating heuristic 8: aesthetic and minimalist design with a severity of 1.</li>
+</ul>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/VrD0Tus.jpg" alt="Imgur" /></span></div>
+
+<p>From our findings with the grafitti wall, we believe that some people enjoy drawing / writing their responses as opposed to typing them. Therefore we have opted to still include the writing option.</p>
+
+<ul>
+<li>There are no back buttons on the comment thread and emotion filter screens on the smartboard, violating heuristic 3: user control and freedom with a severity of 3.</li>
+</ul>
+
+<p>We added these buttons immediately upon receiving this feedback during the evaluation, as shown in the images below.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/dpwZGbW.jpg" alt="Imgur" /></span></div>
+
+<ul>
+<li>The hues surrounding the paintings on the smartboard may be too much info for the home screen of the smartboard, violating heuristic 8: aesthetic and minimalist design with a severity of 1.</li>
+</ul>
+
+<p>We limit these colors to the most common 3 emotional responses, which will hopefully eliminate overwhelming rainbows of color. However, we have added a small tooltip to indicate the purpose of these hues, as we realize this was not clear orginally.</p>
+
+<div class="col-12"><span class="image fit"><img src="https://i.imgur.com/rSO9xwo.jpg" alt="Imgur" /></span></div>
+
+      
+<!-- Footer -->
+		<footer id="footer">
+			<p class="copyright">&copy; 2018 Amarteurs. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+		</footer>
+
+	</div>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/jquery.scrollex.min.js"></script>
+	<script src="assets/js/jquery.scrolly.min.js"></script>
+	<script src="assets/js/skel.min.js"></script>
+	<script src="assets/js/util.js"></script>
+	<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+	<script src="assets/js/main.js"></script>
+</body>
+
+</html>
